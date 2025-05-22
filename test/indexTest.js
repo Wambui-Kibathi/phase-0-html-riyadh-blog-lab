@@ -32,6 +32,7 @@ describe("index.html", () => {
       );
     });
   });
+  
   describe("the content section", () => {
     it("has three <h3> elements with the correct content", () => {
       // find the element with an id of content
